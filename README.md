@@ -16,6 +16,7 @@ combined symbolic execution and fuzzing system, check us out at
 ## CHANGELOG
 
 Feb 2023: drcov format version 3 now supported.
+
 Oct 2021: Some changes in the API:
 
 - Added a `ctx` object that is keyed off the Binary View and helpers
